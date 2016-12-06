@@ -1,0 +1,8 @@
+[debug] Copy resource mappings: 
+[debug] 	(/media/sf_student/playlab_crud-part4/conf/application.conf,/media/sf_student/playlab_crud-part4/target/scala-2.11/classes/application.conf)
+[debug] 	(/media/sf_student/playlab_crud-part4/conf/evolutions,/media/sf_student/playlab_crud-part4/target/scala-2.11/classes/evolutions)
+[debug] 	(/media/sf_student/playlab_crud-part4/conf/logback.xml,/media/sf_student/playlab_crud-part4/target/scala-2.11/classes/logback.xml)
+[debug] 	(/media/sf_student/playlab_crud-part4/conf/routes,/media/sf_student/playlab_crud-part4/target/scala-2.11/classes/routes)
+[debug] 	(/media/sf_student/playlab_crud-part4/conf/evolutions/default,/media/sf_student/playlab_crud-part4/target/scala-2.11/classes/evolutions/default)
+[debug] 	(/media/sf_student/playlab_crud-part4/conf/evolutions/default/1.sql,/media/sf_student/playlab_crud-part4/target/scala-2.11/classes/evolutions/default/1.sql)
+[debug] 	(/media/sf_student/playlab_crud-part4/conf/evolutions/default/2.sql,/media/sf_student/playlab_crud-part4/target/scala-2.11/classes/evolutions/default/2.sql)
